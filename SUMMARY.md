@@ -1,5 +1,8 @@
 # Table of contents
 
 * [Batuhan Taskaya's Resume](README.md)
-* [PEPGrave: Resurrecting Dead PEPs](pepgrave-resurrecting-dead-peps.md)
+
+## Blog Posts
+
+* [PEPGrave: Resurrecting Dead PEPs](blog-posts/pepgrave-resurrecting-dead-peps.md)
 
